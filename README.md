@@ -1,4 +1,4 @@
-[Research Paper](https://github.com/E2EDPS/Research-Paper/blob/main/E2EDPS-Research-Paper.pdf) | [Contact Email](mailto:easel-sliver-vowel@duck.com)
+[Research Paper](https://github.com/E2EDPS/Research-Paper/blob/main/E2EDPS-Research-Paper.pdf) | [Contact Email](mailto:shush-islamic-kilt@duck.com)
 
 ## End-to-End Data Protection System (E2EDPS)
 
@@ -32,4 +32,4 @@ Future developments will focus on optimizing system performance and exploring ad
 
 For a detailed understanding of the E2EDPS, please refer to the full research paper available in PDF format:
 
-[Research Paper](https://github.com/E2EDPS/Research-Paper/blob/main/E2EDPS-Research-Paper.pdf) | [Contact Email](mailto:easel-sliver-vowel@duck.com)
+[Research Paper](https://github.com/E2EDPS/Research-Paper/blob/main/E2EDPS-Research-Paper.pdf) | [Contact Email](mailto:shush-islamic-kilt@duck.com)
