@@ -3,6 +3,7 @@
 ## End-to-End Data Protection System (E2EDPS)
 
 The **End-to-End Data Protection System (E2EDPS)** is a novel protocol designed to enhance data privacy and security in digital communications. By leveraging **Elliptic Curve Cryptography (ECC)**, E2EDPS ensures the confidentiality and integrity of user data through a unique private key-based authentication mechanism and dual encryption strategy.
+Because yes in our days there is still big tech companies that store passwords in plain text. See [Meta 101M Passwords in plain text](https://arstechnica.com/security/2024/09/meta-slapped-with-101-million-fine-for-storing-passwords-in-plaintext/ )
 
 ### Features
 
